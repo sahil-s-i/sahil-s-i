@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Front-End & Programming Languages**
 
-- 🔭 2024 Goal :  **Full Stack Web Developer** 
+- 🔭 2025 Goal :  **Full Stack Web Developer** 
   
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sahil-s-i)
 
