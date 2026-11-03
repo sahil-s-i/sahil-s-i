@@ -153,8 +153,8 @@ Agentic AI & Multi-Agent Systems
 Production AI Engineering
 ```
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sahil-s-i&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-s-i&theme=dark&hide_border=false" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-s-i&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170"/> </p>
+# 📊 GitHub Stats 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-s-i&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-s-i&theme=dark&hide_border=false)<br/><br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api?username=Sahil-s-i&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 📫 Connect With Me
 <p align="left"> <a href="https://www.linkedin.com/in/sahil-ismailnavar/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/sahil-s-i"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> </a> <a href="https://leetcode.com/u/Sahil_I/"> <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116" /> </a> <a href="https://www.geeksforgeeks.org/user/sahil_i/"> <img src="https://img.shields.io/badge/GeeksforGeeks-20C20E?style=flat&logo=geeksforgeeks&logoColor=white" /> </a> </p>
