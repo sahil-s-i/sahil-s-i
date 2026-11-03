@@ -1,49 +1,153 @@
+<h1 align="center">Hi 👋, I'm Sahil Ismailnavar</h1>
 
-![logo](https://142972.fs1.hubspotusercontent-na1.net/hubfs/142972/Blog_CybersecurityStatistics_BlogHero_202206_V2.png)
+<h3 align="center">
+Software Engineer | Python • FastAPI • React.js • AI & Agentic AI
+</h3>
 
+<p align="center">
+  Building scalable backend services, full-stack applications, and AI-powered solutions.
+</p>
 
-<h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">A passionate Front-End Developer from India</h3><br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahil-ismailnavar/">LinkedIn</a>
+  •
+  <a href="https://leetcode.com/u/Sahil_I/">LeetCode</a>
+  •
+  <a href="https://www.geeksforgeeks.org/user/sahil_i/">GeeksforGeeks</a>
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=Sahil-s-i&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
-<img align="right" alt="Coding" height="265" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGc3N2l1MjJ2ZW52MXBuNmt5YXp5MmthbmhrNjhrdnlwYmx5dDB4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Back-End Development**
+- 💼 Software Development Engineer working on **Adobe product development**
+- 🐍 Experienced in **Python, FastAPI, REST APIs, SQL, and backend development**
+- ⚛️ Building full-stack applications using **React.js and modern web technologies**
+- 🤖 Exploring and building **LLM-powered and Agentic AI applications**
+- 🧠 Interested in **AI Agents, Multi-Agent Systems, Tool Calling, RAG, and LLM application development**
+- ☁️ Working with **Docker, Kubernetes, AWS, and cloud-native application environments**
+- 🔧 Experienced in **workflow automation, API integration, database systems, and enterprise applications**
+- 🚀 Currently building projects around **AI, intelligent automation, and agentic systems**
+- 📫 Reach me at **sahilismailnavar@gmail.com**
 
-- 💬 Ask me about **Front-End & Programming Languages**
+---
 
-- 🔭 2025 Goal :  **Full Stack Web Developer** 
-  
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sahil-s-i)
+## 🛠️ Tech Stack
 
-- 📫 How to reach me [Mail](sahilismailnavar@gmail.com)
+### 💻 Programming Languages
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-- 📄 Know More about me [My-Portfolio](https://sahil-s-i.github.io/Sahil-Portfolio/)
+### ⚙️ Backend & APIs
 
-- ⚡ Fun Fact : I once debugged a code issue in my dream and woke up with the solution 🌙💻😅
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat&logoColor=white)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-ismailnavar) &nbsp; 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Sahil_I/)&nbsp; 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksForGeeks-%2320C20E.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sahi/practice) &nbsp; 
-[![HackerRank](https://img.shields.io/badge/HackerRank-%231DA1F2.svg?logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/sahilsi2903) &nbsp; 
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://twitter.com/@Sahil_S_I)
-&nbsp; 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sahil_s_i__) &nbsp; 
+### 🤖 AI & Agentic AI
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) &nbsp;&nbsp; ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) &nbsp;&nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) &nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) &nbsp;&nbsp; ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) &nbsp;&nbsp; ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) &nbsp;&nbsp; ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) &nbsp;&nbsp; ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) &nbsp;&nbsp; ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) &nbsp;&nbsp; ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)  &nbsp;&nbsp;![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) &nbsp;&nbsp; ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  &nbsp;&nbsp;![Pug](https://img.shields.io/badge/Pug-FFF?style=flat&logo=pug&logoColor=A86454) &nbsp;&nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) &nbsp;&nbsp; ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) &nbsp;&nbsp; ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  &nbsp;&nbsp;![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)  &nbsp;&nbsp;![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) &nbsp;&nbsp; ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) &nbsp;&nbsp; ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) &nbsp;&nbsp; ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) &nbsp;&nbsp; ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) &nbsp;&nbsp; ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  &nbsp;&nbsp;![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-s-i&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahil-s-i&theme=dark&hide_border=false)<br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://github-readme-stats.vercel.app/api?username=Sahil-s-i&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![LLM](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logoColor=white)
 
+**AI Concepts:**  
+LLMs • AI Agents • Agentic AI • Multi-Agent Systems • Tool Calling •
+Agent Orchestration • Structured Outputs • Guardrails • Agentic RAG •
+Context Engineering
 
+### 🌐 Frontend
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-[![](https://visitcount.itsvg.in/api?id=Sahil-s-i&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🗄️ Databases
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+### ☁️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Resume Intelligence & Job Matching Platform
+
+AI-powered platform for resume screening and job matching.
+
+**Tech:** Python • FastAPI • React.js • PostgreSQL • PyMuPDF • Gemini API
+
+- Evaluates multiple resumes against recruiter-provided job descriptions
+- Uses layout-aware PDF processing with text blocks, coordinates, page dimensions, and spatial analysis
+- Performs LLM-powered job-description validation and structured resume analysis
+- Generates explainable candidate scoring, matched/missing skills, and evidence-backed recommendations
+
+---
+
+### 🧠 Multi-Agent Research Assistant
+
+A multi-agent research system that converts user queries into structured research reports.
+
+**Tech:** Python • Gradio • LLMs • Agents • Pydantic
+
+- Uses specialized agents for prompting, planning, search, writing, and email delivery
+- Manager Agent coordinates the complete research workflow
+- Uses structured outputs and multi-stage information passing
+- Supports streamed workflow updates and SMTP email delivery
+
+---
+
+### 📈 Autonomous Trading Simulation Platform
+
+An autonomous agent-based trading simulation platform.
+
+**Tech:** Python • OpenAI Agents SDK • MCP • FastAPI • SQLite • TypeScript
+
+- Develops autonomous trader agents for market research and trade execution
+- Uses MCP servers for market data, account operations, research, memory, and notifications
+- Tracks portfolios, holdings, and transactions using SQLite
+- Provides a TypeScript dashboard integrated with a FastAPI backend
+
+---
+
+## 🎯 Current Focus
+
+```text
+Software Engineering
+        ↓
+Python & FastAPI
+        ↓
+Backend & Full-Stack Development
+        ↓
+LLM Applications
+        ↓
+Agentic AI & Multi-Agent Systems
+        ↓
+Production AI Engineering
